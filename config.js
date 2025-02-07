@@ -6,6 +6,7 @@ const config = {
     mouse: "squeak39",
     sloan: "fortnite1",
     potato: "potato",
+    trix: "figers.com",
   },
 };
 
