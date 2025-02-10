@@ -7,6 +7,7 @@ const config = {
     sloan: "fortnite1",
     potato: "potato",
     trix: "figers.com",
+    Centerman: "ThecakeisNOTalie",
   },
 };
 
