@@ -8,6 +8,7 @@ const config = {
     potato: "potato",
     trix: "figers.com",
     Centerman: "ThecakeisNOTalie",
+    Lycanroc: "dave2",
   },
 };
 
