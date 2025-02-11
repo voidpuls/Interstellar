@@ -9,6 +9,7 @@ const config = {
     trix: "figers.com",
     Centerman: "ThecakeisNOTalie",
     Lycanroc: "dave2",
+    skibidi: "Sigma123",
   },
 };
 
