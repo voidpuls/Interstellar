@@ -3,7 +3,7 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     Voidpulse: "Sunset2006!",
-    mouse: "squeak39",
+    mouse: "squeak69",
     sloan: "fortnite1",
     potato: "potato",
     trix: "figers.com",
