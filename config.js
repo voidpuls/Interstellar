@@ -10,6 +10,7 @@ const config = {
     Centerman: "ThecakeisNOTalie",
     Lycanroc: "dave2",
     skibidi: "Sigma123",
+    watermelon: "watermelon",
   },
 };
 
