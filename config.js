@@ -11,6 +11,7 @@ const config = {
     Lycanroc: "dave2",
     skibidi: "Sigma123",
     watermelon: "watermelon",
+    cardtitan: "dickhead",
   },
 };
 
